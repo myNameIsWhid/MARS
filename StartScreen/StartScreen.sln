@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartScreen", "StartScreen\StartScreen\StartScreen.csproj", "{1482A73D-2127-4041-9A89-260F5FF2C995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartScreenContent", "StartScreen\StartScreenContent\StartScreenContent.contentproj", "{4E1315BC-2569-4ADC-BFF6-AF22AAC68864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1482A73D-2127-4041-9A89-260F5FF2C995}.Debug|x86.ActiveCfg = Debug|x86
+		{1482A73D-2127-4041-9A89-260F5FF2C995}.Debug|x86.Build.0 = Debug|x86
+		{1482A73D-2127-4041-9A89-260F5FF2C995}.Release|x86.ActiveCfg = Release|x86
+		{1482A73D-2127-4041-9A89-260F5FF2C995}.Release|x86.Build.0 = Release|x86
+		{4E1315BC-2569-4ADC-BFF6-AF22AAC68864}.Debug|x86.ActiveCfg = Debug|x86
+		{4E1315BC-2569-4ADC-BFF6-AF22AAC68864}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C986DA-5700-4E8C-A69C-46B0D8382E87}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,652 @@
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\StartScreen.xnb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SelectPlayerScreen.xnb
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\StartButton.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_deselect.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_select.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-close.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-open.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\saw-05.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\Crowd Aww Sound Effect.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\BattleWin.xnb
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\GameWon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_deselect.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_select.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-close.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-open.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\saw-05.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\Crowd Aww Sound Effect.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\BattleWin.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\GameWon.xnb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\vibraphone-26.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_deselect.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_select.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-close.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-open.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\saw-05.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\Crowd Aww Sound Effect.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\BattleWin.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\GameWon.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\vibraphone-26.xnb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont3.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_deselect.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_select.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-close.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-open.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\saw-05.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\Crowd Aww Sound Effect.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\BattleWin.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\GameWon.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\vibraphone-26.xnb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\white.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\playerScreen.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Background.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonDown.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ButtonUp.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Game UI.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Mars Logo no bg.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Money.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\System.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\homeIcon.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\shopIcon.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\ball.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\right.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\triangle.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Hills.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Island.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mars.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level1\Level_1_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Hills.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Island.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mars.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level2\Level_2_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Hills.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Island.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Lakes.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mars.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Level3\Level_3_Mountains.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Soldier.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Tank.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\SpriteFont3.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Gustav Holst Mars.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_deselect.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\click_select.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-close.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\item-open.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\saw-05.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\Crowd Aww Sound Effect.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\BattleWin.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\GameWon.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Sounds\vibraphone-26.xnb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Hill3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mars3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain1-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain2-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\Battlefields\Mountain3-Impassable.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Content\TerritoryNames.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\StartScreen.pdb
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.csproj.CopyComplete
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.exe
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreen\obj\x86\Debug\StartScreen.pdb

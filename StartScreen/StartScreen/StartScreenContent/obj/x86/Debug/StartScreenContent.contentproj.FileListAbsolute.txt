@@ -1,0 +1,22 @@
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\257350\Desktop\MARS\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\rbpil\Desktop\MARS\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\Lucas Ivy\Downloads\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame6\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\LUCAS\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\292003\Downloads\FinalGame7\FinalGame5\FinalGame\StartScreen v3.2 (probably final one)\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
+C:\Users\LUCAS\OneDrive\Desktop\Mars\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.AssemblyReference.cache
+C:\Users\LUCAS\OneDrive\Desktop\Mars\StartScreen\StartScreen\StartScreenContent\obj\x86\Debug\StartScreenContent.contentproj.CoreCompileInputs.cache
